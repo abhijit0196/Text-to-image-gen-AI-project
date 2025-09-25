@@ -13,12 +13,3 @@ It allows you to input any text prompt and generate high-quality AI images insta
 - Saves generated images automatically  
 
 ---
-
-##  Installation
-
-Clone the repository and install the required packages:
-
-```bash
-git clone https://github.com/your-username/text-to-image-generator.git
-cd text-to-image-generator
-pip install -r requirements.txt
